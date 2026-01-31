@@ -47,7 +47,7 @@ const Home = () => {
   }, []);
 
   const whatsappMsg = encodeURIComponent(
-    "Hello CB LUXE STAYS 👋\n\nI’d like help booking a premium shortlet."
+    "Hello mex apartments 👋\n\nI’d like help booking a premium shortlet."
   );
 
   return (
@@ -74,7 +74,7 @@ const Home = () => {
         <div className="relative z-10 h-full container mx-auto px-6 flex items-center">
           <div className="max-w-3xl">
             <p className="uppercase tracking-[0.4em] text-xs text-white/70 mb-6">
-              CB LUXE STAYS 
+              mex apartments
             </p>
 
             <h1 className="text-5xl md:text-7xl font-light text-white leading-tight mb-8">

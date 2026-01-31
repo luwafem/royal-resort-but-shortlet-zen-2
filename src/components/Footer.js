@@ -24,7 +24,7 @@ const Footer = () => {
         {/* BRAND */}
         <div className="max-w-3xl mb-20">
           <h2 className="font-playfair text-4xl mb-6">
-            CB LUXE STAYS 
+            mex apartments
           </h2>
           <p className="text-zinc-500 leading-relaxed">
             A private beachfront retreat designed for rest, privacy,
@@ -132,7 +132,7 @@ const Footer = () => {
         </div>
 
         <p className="text-center text-[11px] text-zinc-400 mt-12">
-          © {year} CB LUXE STAYS 
+          © {year} mex apartments 
         </p>
       </div>
     </footer>

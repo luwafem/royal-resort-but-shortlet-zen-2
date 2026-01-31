@@ -1,25 +1,25 @@
 export const naijaStaysData = {
   seo: {
-    title: "CB LUXE STAYS | Premium Shortlet Apartments & Villas in Nigeria",
-    description: "Experience luxury living with CB LUXE STAYS  - premium shortlet apartments, serviced apartments, and luxury villas across Nigeria's major cities. Book your perfect stay today.",
+    title: "mex apartments | Premium Shortlet Apartments & Villas in Nigeria",
+    description: "Experience luxury living with mex apartments  - premium shortlet apartments, serviced apartments, and luxury villas across Nigeria's major cities. Book your perfect stay today.",
     keywords: "shortlet apartments Nigeria, serviced apartments Lagos, vacation rentals Abuja, luxury apartments Port Harcourt, monthly rentals Nigeria",
-    canonical: "https://cbluxestays.ng",
+    canonical: "https://mexapartments.ng",
     ogImage: "/og-image.jpg"
   },
   
   contact: {
   phone: "+2349061234567",  // Remove spaces from phone numbers
   whatsapp: "2349061234567",  // Remove + sign for WhatsApp
-  email: "bookings@cbluxestays.ng",
+  email: "bookings@mexapartments.ng",
   address: "3A Bourdillon Road, Ikoyi, Lagos, Nigeria",
   workingHours: "24/7 Booking Support"
 },
   
   socialLinks: {
-    instagram: "https://instagram.com/cbluxestays",
-    twitter: "https://twitter.com/cbluxestays",
-    facebook: "https://facebook.com/cbluxestays",
-    airbnb: "https://airbnb.com/users/show/cbluxestays"
+    instagram: "https://instagram.com/mexapartments",
+    twitter: "https://twitter.com/mexapartments",
+    facebook: "https://facebook.com/mexapartments",
+    airbnb: "https://airbnb.com/users/show/mexapartments"
   },
   
   cities: [

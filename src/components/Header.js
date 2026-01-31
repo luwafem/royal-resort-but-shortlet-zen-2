@@ -37,7 +37,7 @@ const Header = () => {
                 <span className={`text-xl tracking-tight ${
                   isScrolled ? 'text-zinc-900' : 'text-white'
                 }`}>
-                  CB LUXE STAYS 
+                  MEX 
                 </span>
                 <span className={`text-[10px] tracking-[0.35em] uppercase ${
                   isScrolled ? 'text-zinc-500' : 'text-white/60'

@@ -53,7 +53,7 @@ const PropertyDetails = () => {
   const total = (property.price * nights) + SERVICE_FEE;
 
   const whatsappMessage = encodeURIComponent(
-    `Hello CB LUXE STAYS 👋\n\nI’m interested in booking:\n${property.name}\n📍 ${property.location}\n\n📅 Check-in: ${checkIn || 'Flexible'}\n📅 Check-out: ${checkOut || 'Flexible'}\n👥 Guests: ${guests}\n🌙 Duration: ${nights} night(s)\n\n💰 Estimated total: ${formatPrice(total)}\n\nPlease share availability & next steps.`
+    `Hello mex apartments 👋\n\nI’m interested in booking:\n${property.name}\n📍 ${property.location}\n\n📅 Check-in: ${checkIn || 'Flexible'}\n📅 Check-out: ${checkOut || 'Flexible'}\n👥 Guests: ${guests}\n🌙 Duration: ${nights} night(s)\n\n💰 Estimated total: ${formatPrice(total)}\n\nPlease share availability & next steps.`
   );
 
   return (

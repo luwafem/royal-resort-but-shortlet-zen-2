@@ -2,8 +2,8 @@ import React from 'react';
 import { Helmet } from 'react-helmet-async';
 
 export const SEO = ({ title, description, image, keywords }) => {
-  const defaultTitle = "CB LUXE STAYS  | Premium Shortlet Accommodations";
-  const defaultDescription = "Experience luxury living with CB LUXE STAYS  - premium shortlet apartments, serviced apartments, and luxury villas across Nigeria.";
+  const defaultTitle = "mex apartments  | Premium Shortlet Accommodations";
+  const defaultDescription = "Experience luxury living with mex apartments  - premium shortlet apartments, serviced apartments, and luxury villas across Nigeria.";
   const defaultImage = "/og-image.jpg";
   
   return (
